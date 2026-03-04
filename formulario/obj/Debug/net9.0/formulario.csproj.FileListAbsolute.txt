@@ -12,3 +12,4 @@ C:\workplace\formulario\obj\Debug\net9.0\refint\formulario.dll
 C:\workplace\formulario\obj\Debug\net9.0\formulario.pdb
 C:\workplace\formulario\obj\Debug\net9.0\formulario.genruntimeconfig.cache
 C:\workplace\formulario\obj\Debug\net9.0\ref\formulario.dll
+C:\workplace\formulario\obj\Debug\net9.0\formulario.sourcelink.json
