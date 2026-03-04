@@ -1,0 +1,14 @@
+C:\workplace\formulario\bin\Debug\net9.0\formulario.exe
+C:\workplace\formulario\bin\Debug\net9.0\formulario.deps.json
+C:\workplace\formulario\bin\Debug\net9.0\formulario.runtimeconfig.json
+C:\workplace\formulario\bin\Debug\net9.0\formulario.dll
+C:\workplace\formulario\bin\Debug\net9.0\formulario.pdb
+C:\workplace\formulario\obj\Debug\net9.0\formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\formulario\obj\Debug\net9.0\formulario.AssemblyInfoInputs.cache
+C:\workplace\formulario\obj\Debug\net9.0\formulario.AssemblyInfo.cs
+C:\workplace\formulario\obj\Debug\net9.0\formulario.csproj.CoreCompileInputs.cache
+C:\workplace\formulario\obj\Debug\net9.0\formulario.dll
+C:\workplace\formulario\obj\Debug\net9.0\refint\formulario.dll
+C:\workplace\formulario\obj\Debug\net9.0\formulario.pdb
+C:\workplace\formulario\obj\Debug\net9.0\formulario.genruntimeconfig.cache
+C:\workplace\formulario\obj\Debug\net9.0\ref\formulario.dll
