@@ -1,0 +1,14 @@
+C:\workplace\numero extenso\bin\Debug\net9.0\numero extenso.exe
+C:\workplace\numero extenso\bin\Debug\net9.0\numero extenso.deps.json
+C:\workplace\numero extenso\bin\Debug\net9.0\numero extenso.runtimeconfig.json
+C:\workplace\numero extenso\bin\Debug\net9.0\numero extenso.dll
+C:\workplace\numero extenso\bin\Debug\net9.0\numero extenso.pdb
+C:\workplace\numero extenso\obj\Debug\net9.0\numero extenso.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\numero extenso\obj\Debug\net9.0\numero extenso.AssemblyInfoInputs.cache
+C:\workplace\numero extenso\obj\Debug\net9.0\numero extenso.AssemblyInfo.cs
+C:\workplace\numero extenso\obj\Debug\net9.0\numero extenso.csproj.CoreCompileInputs.cache
+C:\workplace\numero extenso\obj\Debug\net9.0\numero extenso.dll
+C:\workplace\numero extenso\obj\Debug\net9.0\refint\numero extenso.dll
+C:\workplace\numero extenso\obj\Debug\net9.0\numero extenso.pdb
+C:\workplace\numero extenso\obj\Debug\net9.0\numero extenso.genruntimeconfig.cache
+C:\workplace\numero extenso\obj\Debug\net9.0\ref\numero extenso.dll
