@@ -1,0 +1,14 @@
+C:\workplace\pokemon\bin\Debug\net9.0\pokemon.exe
+C:\workplace\pokemon\bin\Debug\net9.0\pokemon.deps.json
+C:\workplace\pokemon\bin\Debug\net9.0\pokemon.runtimeconfig.json
+C:\workplace\pokemon\bin\Debug\net9.0\pokemon.dll
+C:\workplace\pokemon\bin\Debug\net9.0\pokemon.pdb
+C:\workplace\pokemon\obj\Debug\net9.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\pokemon\obj\Debug\net9.0\pokemon.AssemblyInfoInputs.cache
+C:\workplace\pokemon\obj\Debug\net9.0\pokemon.AssemblyInfo.cs
+C:\workplace\pokemon\obj\Debug\net9.0\pokemon.csproj.CoreCompileInputs.cache
+C:\workplace\pokemon\obj\Debug\net9.0\pokemon.dll
+C:\workplace\pokemon\obj\Debug\net9.0\refint\pokemon.dll
+C:\workplace\pokemon\obj\Debug\net9.0\pokemon.pdb
+C:\workplace\pokemon\obj\Debug\net9.0\pokemon.genruntimeconfig.cache
+C:\workplace\pokemon\obj\Debug\net9.0\ref\pokemon.dll
