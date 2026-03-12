@@ -1,0 +1,14 @@
+C:\workplace\counting loop\bin\Debug\net9.0\counting loop.exe
+C:\workplace\counting loop\bin\Debug\net9.0\counting loop.deps.json
+C:\workplace\counting loop\bin\Debug\net9.0\counting loop.runtimeconfig.json
+C:\workplace\counting loop\bin\Debug\net9.0\counting loop.dll
+C:\workplace\counting loop\bin\Debug\net9.0\counting loop.pdb
+C:\workplace\counting loop\obj\Debug\net9.0\counting loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\counting loop\obj\Debug\net9.0\counting loop.AssemblyInfoInputs.cache
+C:\workplace\counting loop\obj\Debug\net9.0\counting loop.AssemblyInfo.cs
+C:\workplace\counting loop\obj\Debug\net9.0\counting loop.csproj.CoreCompileInputs.cache
+C:\workplace\counting loop\obj\Debug\net9.0\counting loop.dll
+C:\workplace\counting loop\obj\Debug\net9.0\refint\counting loop.dll
+C:\workplace\counting loop\obj\Debug\net9.0\counting loop.pdb
+C:\workplace\counting loop\obj\Debug\net9.0\counting loop.genruntimeconfig.cache
+C:\workplace\counting loop\obj\Debug\net9.0\ref\counting loop.dll
