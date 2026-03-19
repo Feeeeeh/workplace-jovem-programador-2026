@@ -1,0 +1,14 @@
+C:\workplace\medias\bin\Debug\net9.0\medias.exe
+C:\workplace\medias\bin\Debug\net9.0\medias.deps.json
+C:\workplace\medias\bin\Debug\net9.0\medias.runtimeconfig.json
+C:\workplace\medias\bin\Debug\net9.0\medias.dll
+C:\workplace\medias\bin\Debug\net9.0\medias.pdb
+C:\workplace\medias\obj\Debug\net9.0\medias.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\medias\obj\Debug\net9.0\medias.AssemblyInfoInputs.cache
+C:\workplace\medias\obj\Debug\net9.0\medias.AssemblyInfo.cs
+C:\workplace\medias\obj\Debug\net9.0\medias.csproj.CoreCompileInputs.cache
+C:\workplace\medias\obj\Debug\net9.0\medias.dll
+C:\workplace\medias\obj\Debug\net9.0\refint\medias.dll
+C:\workplace\medias\obj\Debug\net9.0\medias.pdb
+C:\workplace\medias\obj\Debug\net9.0\medias.genruntimeconfig.cache
+C:\workplace\medias\obj\Debug\net9.0\ref\medias.dll
