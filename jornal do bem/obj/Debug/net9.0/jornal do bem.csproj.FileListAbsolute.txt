@@ -1,0 +1,14 @@
+C:\workplace\jornal do bem\bin\Debug\net9.0\jornal do bem.exe
+C:\workplace\jornal do bem\bin\Debug\net9.0\jornal do bem.deps.json
+C:\workplace\jornal do bem\bin\Debug\net9.0\jornal do bem.runtimeconfig.json
+C:\workplace\jornal do bem\bin\Debug\net9.0\jornal do bem.dll
+C:\workplace\jornal do bem\bin\Debug\net9.0\jornal do bem.pdb
+C:\workplace\jornal do bem\obj\Debug\net9.0\jornal do bem.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\jornal do bem\obj\Debug\net9.0\jornal do bem.AssemblyInfoInputs.cache
+C:\workplace\jornal do bem\obj\Debug\net9.0\jornal do bem.AssemblyInfo.cs
+C:\workplace\jornal do bem\obj\Debug\net9.0\jornal do bem.csproj.CoreCompileInputs.cache
+C:\workplace\jornal do bem\obj\Debug\net9.0\jornal do bem.dll
+C:\workplace\jornal do bem\obj\Debug\net9.0\refint\jornal do bem.dll
+C:\workplace\jornal do bem\obj\Debug\net9.0\jornal do bem.pdb
+C:\workplace\jornal do bem\obj\Debug\net9.0\jornal do bem.genruntimeconfig.cache
+C:\workplace\jornal do bem\obj\Debug\net9.0\ref\jornal do bem.dll
