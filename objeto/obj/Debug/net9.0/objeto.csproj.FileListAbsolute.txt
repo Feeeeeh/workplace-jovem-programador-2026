@@ -1,0 +1,14 @@
+C:\workplace\objeto\bin\Debug\net9.0\objeto.exe
+C:\workplace\objeto\bin\Debug\net9.0\objeto.deps.json
+C:\workplace\objeto\bin\Debug\net9.0\objeto.runtimeconfig.json
+C:\workplace\objeto\bin\Debug\net9.0\objeto.dll
+C:\workplace\objeto\bin\Debug\net9.0\objeto.pdb
+C:\workplace\objeto\obj\Debug\net9.0\objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\objeto\obj\Debug\net9.0\objeto.AssemblyInfoInputs.cache
+C:\workplace\objeto\obj\Debug\net9.0\objeto.AssemblyInfo.cs
+C:\workplace\objeto\obj\Debug\net9.0\objeto.csproj.CoreCompileInputs.cache
+C:\workplace\objeto\obj\Debug\net9.0\objeto.dll
+C:\workplace\objeto\obj\Debug\net9.0\refint\objeto.dll
+C:\workplace\objeto\obj\Debug\net9.0\objeto.pdb
+C:\workplace\objeto\obj\Debug\net9.0\objeto.genruntimeconfig.cache
+C:\workplace\objeto\obj\Debug\net9.0\ref\objeto.dll
